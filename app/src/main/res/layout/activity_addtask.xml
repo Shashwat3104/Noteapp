@@ -91,7 +91,7 @@
             android:textColor="#ffffff"
             android:textSize="30sp"
             android:background="#000000"
-            android:onClick=""/>
+            />
     </LinearLayout>
 
 </RelativeLayout>
